@@ -4,7 +4,12 @@ from typing import List
 
 def detective(password: str) -> List[str]:
     """
-    Get
+    Get all varies of detective mistake.
+
+    Args:
+        fst: str - first value
+    Returns:
+        List[str] - result of detective
     """
     answer = list()
     
